@@ -1,7 +1,7 @@
-# SpringApacheKafka
+# Spring Apache Kafka
 Spring for Apache Kafka Examples
 
-This repository is to demonistrate the Apache Kafka with Spring for Apache Kafka
+This repository is to demonstrate the Apache Kafka with Spring for Apache Kafka
 
 **Apache Kafka Workspace Setup**
 Workspace setup is a 4 step process
